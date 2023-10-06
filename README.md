@@ -1,5 +1,5 @@
 # HPC_Assignment_2 
-***Created a concurrent double-linked list (sorted list) using the following synchronization techniques:
+*** Created a concurrent double-linked list (sorted list) using the following synchronization techniques:
 
 1. Coarse-grain Synchronization
 2. Fine-grain Synchronization
